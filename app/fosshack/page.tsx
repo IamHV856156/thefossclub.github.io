@@ -598,14 +598,14 @@ export default function Home() {
           >
             <SponsorTier
               title="Platinum"
-              amount={440}
+              amount={275}
               sponsors={[]}
               bgColor="bg-gradient-to-br from-cyan-200/30 via-cyan-300/20 to-transparent backdrop-blur-sm border border-gray-400/30"
             />
 
             <SponsorTier
               title="Gold"
-              amount={220}
+              amount={165}
               sponsors={[]}
               bgColor="bg-gradient-to-br from-yellow-500/25 via-yellow-400/15 to-transparent backdrop-blur-sm border border-yellow-400/30"
             />
